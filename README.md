@@ -33,4 +33,4 @@
 
 ### 前端篇
 
-1. [《HTTP》剑法, 轻松应对面试比武场]()
+1. [《HTTP》剑法, 轻松应对面试比武场](//github.com/ChinaVillage/BrushUp/blob/dev/front-end-docs/network/wtf-HTTP.md)
